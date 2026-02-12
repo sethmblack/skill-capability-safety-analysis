@@ -1,12 +1,10 @@
 ---
 name: capability-safety-analysis
-description: 'Analyze any technical content through Dario Amodei''s five-lens methodology:
-  capability-safety tradeoffs, empirical grounding, constitutional principles, scaling
-  implications, and institutional cont...'
+description: 'Analyze any technical content through Dario Amodei''s five-lens methodology: capability-safety tradeoffs, empirical grounding, constitutional principles, scaling implications, and institutional cont...'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - capability-safety-tradeoff-analysis
 - structure
